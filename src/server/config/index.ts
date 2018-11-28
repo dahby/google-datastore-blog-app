@@ -1,3 +1,4 @@
+import './env';
 import { config as common, CommonConfig } from './common';
 import { config as gcloud, GcloudConfig } from './gcloud';
 import { config as server, ServerConfig } from './server';

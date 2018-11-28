@@ -142,3 +142,11 @@ Sébastien Loix – [@sebloix](https://twitter.com/sebloix)
 Distributed under the MIT license. See `LICENSE` for more information.
 
 [https://github.com/sebelga](https://github.com/sebelga/)
+
+## Part 2
+
+https://medium.com/@sebelga/build-a-blog-application-on-google-app-engine-architecture-part-2-1b7fb081bf3c
+
+## Part 3
+
+https://medium.com/@sebelga/build-a-blog-application-on-google-app-engine-the-app-context-part-3-8a0f15c35166
