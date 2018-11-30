@@ -2,9 +2,9 @@ import initUtilsModule from './modules/utils';
 import initAdminModule from './modules/admin';
 import initBlogModule from './modules/blog';
 import initImagesModule from './modules/images';
-import { AppModules } from './models';
+import { Context, AppModules } from './models';
 
-export default (): AppModules => {
+export default (context: Context): AppModules => {
   /**
    * Initialize our module by passing the context & each module dependencies
    */
